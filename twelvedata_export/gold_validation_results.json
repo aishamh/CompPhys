@@ -1,0 +1,34 @@
+{
+  "correlations": {
+    "btc_gold": 0.08784927938057277,
+    "flow_gold": -0.043289399496340183,
+    "btc_flow": -0.007517713193002691
+  },
+  "scenarios": {
+    "A: Large OUTFLOWS + Gold RISING": {
+      "n": 29,
+      "avg_return": 3.1135790095265135,
+      "edge": 2.1160793777738776,
+      "win_rate": 68.96551724137932
+    },
+    "B: Large OUTFLOWS + Gold FALLING": {
+      "n": 22,
+      "avg_return": 2.3175833845597227,
+      "edge": 1.3200837528070868,
+      "win_rate": 59.09090909090909
+    },
+    "C: Large INFLOWS + Gold RISING": {
+      "n": 35,
+      "avg_return": 0.18135316802372167,
+      "edge": -0.8161464637289142,
+      "win_rate": 57.14285714285714
+    },
+    "D: Large INFLOWS + Gold FALLING": {
+      "n": 16,
+      "avg_return": 0.9109381212350511,
+      "edge": -0.08656151051758476,
+      "win_rate": 56.25
+    }
+  },
+  "timestamp": "2026-02-11T13:27:42.333745"
+}
