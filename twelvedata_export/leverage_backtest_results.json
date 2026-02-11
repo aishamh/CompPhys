@@ -1,0 +1,19 @@
+{
+  "total_trades": 29,
+  "total_return_pct": 127.72151655942193,
+  "avg_return_per_trade": 3.1135790095265135,
+  "win_rate": 68.96551724137932,
+  "max_drawdown_pct": -31.936380663911436,
+  "profit_factor": 2.9538962960223167,
+  "sharpe_per_trade": 0.44136836632077936,
+  "theoretical_max_leverage": 3.131225202140749,
+  "conservative_leverage": 0.7828063005351873,
+  "moderate_leverage": 1.5656126010703746,
+  "aggressive_leverage": 2.348418901605562,
+  "kelly_full": 0.45618212417493836,
+  "kelly_half": 0.22809106208746918,
+  "recommended_leverage": 0.7828063005351873,
+  "first_signal": "2024-01-19",
+  "last_signal": "2025-10-01",
+  "timestamp": "2026-02-11T13:31:38.519126"
+}
